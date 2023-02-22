@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Color Palet Selector",
+  "description": "Color Palet Selector is an extension where you can choose as many colors as you want and apply easily",
+  "version": "1.0",
+  "action": {
+    "default_popup": "color_picker.html"
+  },
+  "icons": {
+    "16": "color-icon.png",
+    "32": "color-icon.png",
+    "48": "color-icon.png",
+    "128": "color-icon.png"
+  }
+}
